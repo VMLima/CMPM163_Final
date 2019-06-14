@@ -14,3 +14,4 @@ Users can use the left mouse button to click on the terrain to generate the sona
 
 ## Link to Location of Downloadable 
 https://people.ucsc.edu/~btilford/163FinalProject/
+The link also contains a link to the video.
