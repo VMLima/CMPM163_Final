@@ -34,7 +34,7 @@ public class RaycastPingOnLeftClick : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-			distance += 0.5f;
+			distance += Time.deltaTime*20;
 			pingMaterial.SetFloat("_GlowDistance1", distance);
 			chestMaterial.SetFloat("_GlowDistance1", distance);
 			if (bounces > 1){

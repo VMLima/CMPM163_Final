@@ -68,8 +68,8 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _GlowDistance: 7.5
-    - _GlowDistance1: 128
-    - _GlowDistance2: 127
+    - _GlowDistance1: 90.01572
+    - _GlowDistance2: -1
     - _GlowDistance3: -1
     - _Metallic: 0
     - _Mode: 0
@@ -84,6 +84,6 @@ Material:
     - _Color: {r: 0.4811321, g: 0.23843715, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _PingLocation: {r: -18.17578, g: 4.708841, b: -12.106279, a: 0}
-    - _PingLocation1: {r: -6.8449306, g: -19.772448, b: 7.5905046, a: 0}
-    - _PingLocation2: {r: -1.0024084, g: -35.27473, b: 21.636126, a: 0}
-    - _PingLocation3: {r: 24.712948, g: -33.83498, b: -14.506779, a: 0}
+    - _PingLocation1: {r: 8.131748, g: -28.912447, b: -18.810322, a: 0}
+    - _PingLocation2: {r: -0.86492896, g: -35.41759, b: 20.609781, a: 0}
+    - _PingLocation3: {r: 17.914911, g: -32.720127, b: -17.237871, a: 0}
