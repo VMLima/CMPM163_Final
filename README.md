@@ -11,3 +11,6 @@ Victoria created the Light Ray effect. The effect was created using raymarching.
 
 ## Instructions
 Users can use the left mouse button to click on the terrain to generate the sonar effect. The closer the sonar effect is to a chest, the brighter red the chest will appear. The game camera moves and rotates on its own over time. The movement is used to show the light ray intensity change at different depths. Use alt-F4 to close the project.
+
+## Link to Location of Downloadable 
+https://people.ucsc.edu/~btilford/163FinalProject/
